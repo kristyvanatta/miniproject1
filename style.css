@@ -1,0 +1,11 @@
+.navlist {
+    display: inline;
+    color: purple;
+}
+.navbar {
+    display: inline;
+}
+h1 {
+    color: purple;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
